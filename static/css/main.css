@@ -1,0 +1,19 @@
+body{
+    margin: 20px auto;
+    background-color: antiquewhite;
+}
+
+.container{
+    display: flex;
+
+    flex-wrap: wrap;
+}
+
+.expense {
+border: 1px solid black;
+    border-radius: 10px;
+    gap: 5px;
+    margin: 15px;
+    padding: 15px;
+    width: 27%;
+}
